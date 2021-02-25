@@ -5,14 +5,6 @@ The ultimate aim of this project is to have someone enter a character backstory,
 
 A secondary aim of this project is to analyze the different choices offered in official, published materials from Paizo for Pathfinder 2nd Edition to see what would be optimal character choices.
 
-Some definitions for acronyms in the datasets\
-**CRB:** Core Rulebook\
-**APG:** Advanced Player's Guide\
-**LOAG:** Lost Omens Ancestry Guide\
-**LOCG:** Lost Omens Character Guide\
-**AAWS:** Azarketi Ancestry Web Supplement/
-
-
 | Acronym | Sourcebook |
 | ----------- | ----------- |
 | APG | Advanced Player's Guide |
