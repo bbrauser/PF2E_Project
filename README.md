@@ -10,5 +10,6 @@ A secondary aim of this project is to analyze the different choices offered in o
 | APG | Advanced Player's Guide |
 | AAWS | Azarketi Ancestry Web Supplement |
 | CRB | Core Rulebook |
+| GMG | Gamemastery Guide |
 | LOAG | Lost Omens Ancestry Guide |
 | LOCG | Lost Omens Character Guide |
