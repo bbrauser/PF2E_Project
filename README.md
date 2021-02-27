@@ -1,5 +1,5 @@
 # PF2E_Project
-A personal project to help players of my Pathfinder 2nd Edition games
+A personal project to help players of my Pathfinder 2nd Edition games.
 
 The ultimate aim of this project is to have someone enter a character backstory, character concept, or something similar, resulting in a couple character choices (ancestry, heritages, feats, etc.) using natural language processing.
 
